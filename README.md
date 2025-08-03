@@ -1,1 +1,1 @@
-# AI-Based-Image-Retrieval
+# AI Based Image Retrieval
